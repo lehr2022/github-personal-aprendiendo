@@ -1,5 +1,8 @@
 package reto1;
 
+
+///Aqui es donde comienza el codigo 
+
 import java.util.Scanner;
 
 public class Reto1 {
